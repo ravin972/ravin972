@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="mailto:pandeyravinder078@gmail.com"><img src="https://img.shields.io/badge/Email-pandeyravinder078%40gmail.com-red"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%40ravinderpandey-blue"></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Ravinder%20Pandey-blue"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-green"></a>
+  <a href="https://twitter.com/RavinPandey8"><img src="https://img.shields.io/badge/Twitter-%40RavinPandey8-blue"></a>
+  <a href="https://www.linkedin.com/in/ravinder-pandey-56041b187/"><img src="https://img.shields.io/badge/LinkedIn-Ravinder%20Pandey-blue"></a>
+  <a href="https://leetcode.com/Ravin08/"><img src="https://img.shields.io/badge/LeetCode-Ravin08%20-green"></a>
 </p>
 
 <br>
@@ -58,9 +58,9 @@
 
 <p align="center">
   <a href="mailto:pandeyravinder078@gmail.com">Email</a> |
-  <a href="https://twitter.com/">Twitter</a> |
-  <a href="https://linkedin.com/">LinkedIn</a> |
-  <a href="https://leetcode.com/">LeetCode</a>
+  <a href="https://twitter.com/RavinPandey8">Twitter</a> |
+  <a href="https://www.linkedin.com/in/ravinder-pandey-56041b187/">LinkedIn</a> |
+  <a href="https://leetcode.com/Ravin08/">LeetCode</a>
 </p>
 
 <br>
