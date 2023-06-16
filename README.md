@@ -1,73 +1,76 @@
-# Hi there 👋
+<h1 align="center">👋 Hello, I'm Ravinder Pandey</h1>
 
-<!--
-**Ravin972/Ravin972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>A passionate full stack developer building beautiful and functional web applications</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:pandeyravinder078@gmail.com"><img src="https://img.shields.io/badge/Email-pandeyravinder078%40gmail.com-red"></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%40ravinderpandey-blue"></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Ravinder%20Pandey-blue"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-green"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
+<p align="center">
+  <img src="https://github.com/ravinderpandey/ravinderpandey/blob/main/assets/developer.gif" alt="Developer GIF">
+</p>
 
+<br>
 
+<h2 align="center">🚀 About Me</h2>
 
-I'm Ravinder Pandey, a beginner full stack developer. I'm passionate about building beautiful and functional web applications. My expertise lies in front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies like Node.js and MySQL.
+<p align="center">
+  Hi there! I'm Ravinder Pandey, a beginner full stack developer with a passion for building beautiful and functional web applications. I'm proficient in front-end technologies such as HTML, CSS, and JavaScript, and I'm continuously expanding my knowledge by learning new frameworks like React. On the back end, I work with technologies like Node.js and MySQL.
+</p>
 
-In my free time, I enjoy working on personal projects and contributing to open-source projects. I'm always looking to improve my skills and learn new technologies, and GitHub is a great platform for doing just that.
+<p align="center">
+  In my free time, I enjoy working on personal projects and contributing to open-source projects. I'm always looking to improve my skills and learn new technologies, and GitHub is a great platform for doing just that.
+</p>
 
-You can find some of my recent projects on my GitHub page. I'm also interested in collaborating on new projects, so feel free to reach out to me if you have any ideas!
+<br>
 
-Thank you for taking the time to check out my profile. I look forward to connecting with other developers and contributing to the open-source community.
+<h2 align="center">🔨 Skills</h2>
 
+<p align="center">
+  Here are some of the key skills and technologies that I work with:
+</p>
 
-## 🚀 About Me
-Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Front%20End-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React-blueviolet">
+  <img src="https://img.shields.io/badge/Back%20End-Node.js%20%7C%20Java%20%7C%20MySQL%20%7C%20MongoDB%20%7C%20Firebase-blue">
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-yellowgreen">
+  <img src="https://img.shields.io/badge/Agile%20Methodologies-Scrum%20%7C%20Kanban-lightgrey">
+</p>
 
-I'm Ravinder Pandey, a beginner full stack developer with a passion for building beautiful and functional web applications. My skills and expertise include:
+<p align="center">
+  I also have familiarity with algorithms and data structures, and I'm currently learning Data Structures and Algorithms (DSA) using the Java programming language. Additionally, I have basic knowledge of server management and deployment, testing frameworks and continuous integration tools, as well as various text editors and integrated development environments (IDEs).
+</p>
 
-. HTML, CSS, and JavaScript for front-end development
+<br>
 
-. Node.js and MySQL for back-end development
+<h2 align="center">🌐 Links</h2>
 
-. Version control with Git and GitHub
+<p align="center">
+  Let's connect! You can find me on:
+</p>
 
-. Agile project management methodologies
+<p align="center">
+  <a href="mailto:pandeyravinder078@gmail.com">Email</a> |
+  <a href="https://twitter.com/">Twitter</a> |
+  <a href="https://linkedin.com/">LinkedIn</a> |
+  <a href="https://leetcode.com/">LeetCode</a>
+</p>
 
-I'm always looking for opportunities to learn and improve my skills, and GitHub is a great platform for doing just that.
+<br>
 
-I'm excited to connect with other developers and contribute to the open-source community. If you have any questions or ideas for collaboration, feel free to reach out to me!
+<h2 align="center">📬 Feedback</h2>
 
+<p align="center">
+  If you have any feedback or questions, please feel free to reach out to me at <a href="mailto:pandeyravinder078@gmail.com">pandeyravinder078@gmail.com</a>. I'm always open to suggestions and improvements.
+</p>
 
-## 🛠 Skills
-. Front-end development: HTML, CSS, JavaScript, React.
-
-. Back-end development: Node.js, Java, MySQL, MongoDB, Firebase.
-
-. Version control: Git, GitHub.
-
-. Familiarity with algorithms, and data structures.
-
-. Basic knowledge of server management and deployment.
-
-. Familiarity with testing frameworks and continuous integration tools.
-
-. Familiarity with text editors and integrated development environments (IDEs).
-
-
-## 🔗 Links
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RavinPandey8)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravinder-pandey-56041b187)
-
-## Feedback
-
-If you have any feedback, please reach out to us at pandeyravinder078@gmail.com
-
+<p align="center">
+  Thanks for stopping by! 😄
+</p>
