@@ -35,7 +35,3 @@
 <p align="center">
   If you have any feedback or questions, please feel free to reach out to me at <a href="mailto:pandeyravinder078@gmail.com">pandeyravinder078@gmail.com</a>. I'm always open to suggestions and improvements.
 </p>
-
-<p align="center">
-  Thanks for stopping by the way! 😄
-</p>
