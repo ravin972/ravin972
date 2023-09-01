@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/ravinderpandey/ravinderpandey/blob/main/assets/developer.gif" alt="Developer GIF">
+  <img src="[https://github.com/ravinderpandey/ravinderpandey/blob/main/assets/developer.gif](https://github.com/ravin972/ravin972.github.io/assets/59820924/946e6c5b-a3a6-4a67-9b6b-94a20af365fd)" alt="Developer GIF">
 </p>
 
 <br>
