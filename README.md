@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  Thanks for stopping by! 😄
+  Thanks for stopping by the way! 😄
 </p>
