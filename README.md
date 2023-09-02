@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ravinder Pandey</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=0e75b6&style=flat" alt="ravin972" /> </p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!;+Ready+to+connect!+🌟;&center=true&size=25">
+  </a>
+</h1>
+
+<h1 align="center">Hello 👋, It's Ravinder Pandey here.</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=0e75b6&style=flat" alt="ravin972" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravin972" alt="ravin972" /></a> </p>
 
