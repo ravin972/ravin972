@@ -50,10 +50,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&" alt="ravin972" /></p>
 
-![snake gif](https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.gif)
-
 <h2 align="center">📬 Feedback</h2>
 
 <p align="center">
   If you have any feedback or questions, please feel free to reach out to me at <a href="mailto:pandeyravinder078@gmail.com">pandeyravinder078@gmail.com</a>. I'm always open to suggestions and improvements.
 </p>
+
+![snake gif](https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.svg)
+
