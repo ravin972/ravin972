@@ -50,7 +50,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&" alt="ravin972" /></p>
 
-![Snake animation](https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center">📬 Feedback</h2>
 
