@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pandeyravinder078@gmail.com**
 
-- ⚡ Fun fact **Ravinder's browser is a hub of exploration, with dozens of open tabs dedicated to learning new programming languages, frameworks, and design trends. His thirst for knowledge knows no bounds!**
+- ⚡ Fun fact **The most important technology for full stack developers in 2024 is the ability to learn new technologies quickly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,8 +35,8 @@
 <p>
     Hello!,I'm a **Web Developer** with a passion for building beautiful and functional web applications. &#127775;
     <br><br>
-    🚀 I specialize in front-end technologies such as **HTML, CSS, and JavaScript, and I'm continuously expanding my knowledge by learning new frameworks like React. On the back end, I work with technologies like Node.js and MySQL.
-    <br><br>
+    🚀 I specialize in front-end technologies such as HTML, CSS, and JavaScript, and I'm continuously expanding my knowledge by learning new frameworks like React. On the back end, I work with technologies like Node.js and MongoDB.
+    <br>
     In my free time, I enjoy working on personal projects and contributing to open-source projects. &#127760;
     <br><br>
     *I'm always looking to improve my skills and learn new technologies, and GitHub is a great platform for doing just that. Let's connect and collaborate! &#128074;
