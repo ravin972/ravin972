@@ -1,5 +1,5 @@
 
-<img width=100% title="Ravinder-Pandey" alt="Ravinder-Pandey" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravinder-Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Ravinder Pandey" alt="Ravinder-Pandey" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravinder-Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=0e75b6&style=flat" alt="ravin972" /> </p>
 
