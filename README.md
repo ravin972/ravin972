@@ -35,19 +35,11 @@
 
 <br><br>
 
-<p>
-    Hello!,I'm a **Web Developer** with a passion for building beautiful and functional web applications. &#127775;
-    <br><br>
-    🚀 I specialize in front-end technologies such as HTML, CSS, and JavaScript, and I'm continuously expanding my knowledge by learning new frameworks like React. On the back end, I work with technologies like Node.js and MongoDB.
-    <br>
-    In my free time, I enjoy working on personal projects and contributing to open-source projects. &#127760;
-    <br><br>
-    *I'm always looking to improve my skills and learn new technologies, and GitHub is a great platform for doing just that. Let's connect and collaborate! &#128074;
-</p>
+Hello! I'm a passionate Web Developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and a growing proficiency in React. On the back end, I work with Node.js and MongoDB.
 
-<p>
-    I also have familiarity with **algorithms and data structures**, and I'm currently learning Data Structures and Algorithms (DSA) using the Java programming language. Additionally, I have basic knowledge of server management and deployment, testing frameworks, and continuous integration tools, as well as various text editors and integrated development environments (IDEs). &#128187;
-</p>
+I love contributing to open-source projects and working on personal projects in my free time. Continuous learning is my motto, and I'm currently honing my skills in algorithms and data structures (DSA) using Java. I also have basic knowledge of server management, testing frameworks, and continuous integration tools.
+
+Let's connect and collaborate on exciting projects! 👊
 
 <br><br>
 
