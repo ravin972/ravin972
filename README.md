@@ -1,5 +1,5 @@
 
-<img width=100% title="Ravinder Pandey" alt="Ravinder Pandey" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravinder-Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Ravinder Pandey" alt="Ravinder Pandey" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=180&section=header&text=Ravinder-Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=0e75b6&style=flat" alt="ravin972" /> </p>
 
@@ -23,8 +23,8 @@
 
 - ⚡ Fun fact **The most important technology for full stack developers in 2024 is the ability to learn new technologies quickly.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/ravinpandey8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravinpandey8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravinder-pandey-56041b187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravinder-pandey-56041b187/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://ravinpandey.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://ravinpandey.hashnode.dev/" height="30" width="40" /></a>
@@ -34,17 +34,21 @@
 </p>
 
 <br><br>
-
-Hello! I'm a passionate Web Developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and a growing proficiency in React. On the back end, I work with Node.js and MongoDB.
-
-I love contributing to open-source projects and working on personal projects in my free time. Continuous learning is my motto, and I'm currently honing my skills in algorithms and data structures (DSA) using Java. I also have basic knowledge of server management, testing frameworks, and continuous integration tools.
-
+<div align = "center">
+<p align="center">
+Hello! I'm a passionate Web Developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and a growing proficiency in React. On the back end, I work with Node.js and MongoDB.</p>
+<p align="center">
+I love contributing to open-source projects and working on personal projects in my free time. Continuous learning is my motto, and I'm currently honing my skills in algorithms and data structures (DSA) using Java. I also have basic knowledge of server management, testing frameworks, and continuous integration tools.</p>
+<p align="center">
 Let's connect and collaborate on exciting projects! 👊
+</p>
+</div>
+<br>
 
-<br><br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages & Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+ </h3>
+<p align="center"> 
 <!--   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -68,11 +72,22 @@ Let's connect and collaborate on exciting projects! 👊
 <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin972&show_icons=true&locale=en&layout=compact" alt="ravin972" /></p>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravin972&show_icons=true&locale=en" alt="ravin972" /></p>
+<!-- ###### Ravin972 Github Stats  ##### -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&" alt="ravin972" /></p>
+<h4 align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIyaHFwbWt0d204czdzYWVxcG5pbTN4ZHMzcDBud2J4MnhhaTNuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30" height="30" align="center"> Ravin972 Github Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIyaHFwbWt0d204czdzYWVxcG5pbTN4ZHMzcDBud2J4MnhhaTNuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30" height="30" align="center">
+</h4>
+
+<div align="center">
+<a href="http://www.github.com/ravin972"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ravin972&show_icons=true&hide=&count_private=true&title_color=F96167&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="ravin972 GitHub stats" /></a>
+<a href="http://www.github.com/ravin972"><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=F96167&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "60%"/></a>
+
+<a href="http://www.github.com/ravin972"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin972&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F96167&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
+<!-- ###### END OF Ravin972 Github Stats  ##### -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ravin972/ravin972@output/github-contribution-grid-snake-dark.svg" />
@@ -87,5 +102,5 @@ Let's connect and collaborate on exciting projects! 👊
 </p>
 
 
-<img width=100% title="Ravinder Pandey" alt="Ravinder-Pandey"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="Ravinder Pandey" alt="Ravinder-Pandey"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
