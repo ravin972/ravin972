@@ -74,6 +74,11 @@ Let's connect and collaborate on exciting projects! 👊
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&" alt="ravin972" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ravin972/ravin972@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h2 align="center">📬 Feedback</h2>
 
@@ -81,11 +86,6 @@ Let's connect and collaborate on exciting projects! 👊
   If you have any feedback or questions, please feel free to reach out to me at <a href="mailto:pandeyravinder078@gmail.com">pandeyravinder078@gmail.com</a>. I'm always open to suggestions and improvements.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ravin972/ravin972@output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <img width=100% title="Ravinder Pandey" alt="Ravinder-Pandey"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
