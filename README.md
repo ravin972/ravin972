@@ -13,11 +13,10 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-<p align='center'>
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=ravin972&theme=dracula&column=11'>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravin972&theme=radical" alt="ravin972" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ravinpandey8" target="blank"><img src="https://img.shields.io/twitter/follow/ravinpandey8?logo=twitter&style=for-the-badge" alt="ravinpandey8" /></a> </p>
+<div> <a href="https://twitter.com/ravinpandey8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://github.com/ravin972" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 - 🌱 I’m currently learning **JavaScript ES6 + React**
 
@@ -78,19 +77,32 @@ Let's connect and collaborate on exciting projects! 👊
 
 <!-- ###### Ravin972 Github Stats  ##### -->
 
-<h4 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIyaHFwbWt0d204czdzYWVxcG5pbTN4ZHMzcDBud2J4MnhhaTNuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30" height="30" align="center"> Ravin972 Github Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIyaHFwbWt0d204czdzYWVxcG5pbTN4ZHMzcDBud2J4MnhhaTNuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30" height="30" align="center">
-</h4>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/pandeyravin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pandeyravin" /></a></p><br><br>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin972&langs_count=8&theme=radical" alt=ravin972 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ravin972&show_icons=true&locale=en&theme=radical" alt="ravin972" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&theme=radical" alt="ravin972" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="http://www.github.com/ravin972"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ravin972&show_icons=true&hide=&count_private=true&title_color=F96167&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="ravin972 GitHub stats" /></a>
-<a href="http://www.github.com/ravin972"><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=F96167&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "60%"/></a>
-
-<a href="http://www.github.com/ravin972"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin972&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F96167&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ravin972">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravin972&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravin972&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravin972&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravin972&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravin972&theme=2077" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ravin972&theme=high-contrast"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!-- ###### END OF Ravin972 Github Stats  ##### -->
-
+<h2 align="center"> Github Contribution </h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ravin972/ravin972@output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.svg" />
