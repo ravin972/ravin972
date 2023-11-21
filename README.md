@@ -1,11 +1,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=0e75b6&style=flat" alt="ravin972" /> </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!;+Ready+to+connect!+🌟;&center=true&size=25">
-  </a>
-</h1>
 
 <h1 align="center">Hello 👋, It's Ravinder Pandey here.</h1>
 <h3 align="center">A passionate Web developer from India</h3>
@@ -28,11 +23,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
-- 🌱 I’m currently learning Backend with Nextjs.
+ - 🌱 I’m currently learning Backend with Nextjs.
 
-- 📫 How to reach me **pandeyravinder078@gmail.com**
+ - 📫 How to reach me **pandeyravinder078@gmail.com**
   
-- ⚡ Fun fact **The most important technology for full stack developers in 2024 is the ability to learn new technologies quickly.**
+ - ⚡ Fun fact **The most important technology for full stack developers in 2024 is the ability to learn new technologies quickly.**
 <br>
 
 <!--About me-->
@@ -41,7 +36,7 @@
 <p align="center">
 Hello! I'm a passionate Web Developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and a growing proficiency in React. On the back end, I work with Node.js and MongoDB.</p>
 <p align="center">
-I love contributing to open-source projects and working on personal projects in my free time. Continuous learning is my motto, and I'm currently honing my skills in algorithms and data structures (DSA) using Java. I also have basic knowledge of server management, testing frameworks, and continuous integration tools.</p>
+I love contributing to open-source projects and working on personal projects in my free time. Continuous learning is my motto, and I'm currently honing my skills in algorithms and data structures (DSA) using Java. I also have basic knowledge of server management, testing frameworks, data Association and and Authorization  tools.</p>
 <p align="center">
 Let's connect and collaborate on exciting projects! 👊
 </p>
