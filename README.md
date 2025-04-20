@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=0e75b6&style=flat" alt="ravin972" /> </p>
 
 
-<h1 align="center">Hello 👋, It's Ravinder Pandey here.</h1>
+<h1 align="center">Hello 👋, It's Ravin Pandey here.</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 ## 🏆 GitHub Trophies
