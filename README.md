@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=RAVIN%20PANDEY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Vibe%20Coder&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=RAVIN%20PANDEY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Vibe%20Coder&descAlignY=51&descAlign=50)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+Today;AI+%2B+Code+%3D+Magic+%E2%9C%A8;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);Backend+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+Today;AI+%2B+Code+%3D+Magic+%E2%9C%A8;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 <!-- Glassmorphism-style About Section -->
@@ -240,6 +240,7 @@ const currentGoals = {
   ],
   building: [
     "Scalable Full-Stack Applications 🚀",
+    "Fast Backend API - FastAPI ⚡",
     "AI-Powered Development Tools 🛠️",
     "Open Source Contributions 🌟",
     "Personal Brand & Portfolio 💼"
