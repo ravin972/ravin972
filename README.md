@@ -15,7 +15,7 @@
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);Full-Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+Today;AI+%2B+Code+%3D+Magic+%E2%9C%A8;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);Backend+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+Today;AI+%2B+Code+%3D+Magic+%E2%9C%A8;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 <!-- Glassmorphism-style About Section -->
@@ -37,7 +37,7 @@ interface Developer {
 const ravin: Developer = {
   name: "Ravin Pandey",
   location: "India 🇮🇳",
-  role: ["Full-Stack Developer", "AI Integrator", "Vibe Coder"],
+  role: ["Backend Developer", "AI Integrator", "Vibe Coder"],
   currentlyLearning: ["Advanced AI", "Modern Architecture", "Web3"],
   challenges: ["Building scalable solutions", "Optimizing performance"],
   funFact: "I debug with console.log and I'm not ashamed! 😄"
@@ -172,6 +172,7 @@ export default ravin;
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-000000?style=for-the-badge&logo=razorpay&logoColor=white)
 
 </div>
 
@@ -240,6 +241,7 @@ const currentGoals = {
   ],
   building: [
     "Scalable Full-Stack Applications 🚀",
+    "Fast Backend API - FastAPI ⚡"
     "AI-Powered Development Tools 🛠️",
     "Open Source Contributions 🌟",
     "Personal Brand & Portfolio 💼"
