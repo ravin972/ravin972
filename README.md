@@ -1,95 +1,325 @@
+<div align="center">
 
-<img width=100% title="Ravinder Pandey" alt="Ravinder Pandey" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravinder-Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=RAVIN%20PANDEY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Vibe%20Coder&descAlignY=51&descAlign=50)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=0e75b6&style=flat" alt="ravin972" /> </p>
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!;+Ready+to+connect!+🌟;&center=true&size=25">
-  </a>
-</h1>
+<!-- Profile Views Counter with Modern Design -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=blueviolet&style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/github/followers/ravin972?label=Followers&style=for-the-badge&color=4c1d95&labelColor=black" />
+<img src="https://img.shields.io/github/stars/ravin972?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=black" />
+</div>
 
-<h1 align="center">Hello 👋, It's Ravinder Pandey here.</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<br/>
 
+<!-- Dynamic Typing Effect -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);Backend+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+Today;AI+%2B+Code+%3D+Magic+%E2%9C%A8;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravin972" alt="ravin972" /></a> </p>
+<!-- Glassmorphism-style About Section -->
+<div align="center">
+<table>
+<tr>
+<td>
 
-<p align="left"> <a href="https://twitter.com/ravinpandey8" target="blank"><img src="https://img.shields.io/twitter/follow/ravinpandey8?logo=twitter&style=for-the-badge" alt="ravinpandey8" /></a> </p>
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string[];
+  currentlyLearning: string[];
+  challenges: string[];
+  funFact: string;
+}
 
-- 🌱 I’m currently learning **JavaScript ES6 + React**
+const ravin: Developer = {
+  name: "Ravin Pandey",
+  location: "India 🇮🇳",
+  role: ["Backend Developer", "AI Integrator", "Vibe Coder"],
+  currentlyLearning: ["Advanced AI", "Modern Architecture", "Web3"],
+  challenges: ["Building scalable solutions", "Optimizing performance"],
+  funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
 
-- 📫 How to reach me **pandeyravinder078@gmail.com**
+export default ravin;
+```
 
-- ⚡ Fun fact **The most important technology for full stack developers in 2024 is the ability to learn new technologies quickly.**
+</td>
+</tr>
+</table>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ravinpandey8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravinpandey8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravinder-pandey-56041b187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravinder-pandey-56041b187/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://ravinpandey.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://ravinpandey.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqvrq0o7larluihhcidvkvq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqvrq0o7larluihhcidvkvq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ravin08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ravin08/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pandeyravinder078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pandeyravinder078" height="30" width="40" /></a>
-</p>
+<br/>
 
-<br><br>
+<!-- Animated GitHub Stats with Modern Cards -->
+<h2 align="center">⚡ GitHub Analytics Dashboard</h2>
 
-<p>
-    Hello!,I'm a **Web Developer** with a passion for building beautiful and functional web applications. &#127775;
-    <br><br>
-    🚀 I specialize in front-end technologies such as HTML, CSS, and JavaScript, and I'm continuously expanding my knowledge by learning new frameworks like React. On the back end, I work with technologies like Node.js and MongoDB.
-    <br>
-    In my free time, I enjoy working on personal projects and contributing to open-source projects. &#127760;
-    <br><br>
-    *I'm always looking to improve my skills and learn new technologies, and GitHub is a great platform for doing just that. Let's connect and collaborate! &#128074;
-</p>
+<div align="center">
 
-<p>
-    I also have familiarity with **algorithms and data structures**, and I'm currently learning Data Structures and Algorithms (DSA) using the Java programming language. Additionally, I have basic knowledge of server management and deployment, testing frameworks, and continuous integration tools, as well as various text editors and integrated development environments (IDEs). &#128187;
-</p>
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ravin972&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ravin972&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-<br><br>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!--   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!--   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  -->
-<!--   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>  -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<!--   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p> -->
+<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ravin972&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin972&show_icons=true&locale=en&layout=compact" alt="ravin972" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravin972&show_icons=true&locale=en" alt="ravin972" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&" alt="ravin972" /></p>
+<!-- Modern Trophy Case -->
+<h2 align="center">🏆 Achievement Showcase</h2>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ravin972&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
 
+<br/>
 
-<h2 align="center">📬 Feedback</h2>
+<!-- Tech Stack with Neon Effect -->
+<h2 align="center">🛠️ Technology Arsenal</h2>
 
-<p align="center">
-  If you have any feedback or questions, please feel free to reach out to me at <a href="mailto:pandeyravinder078@gmail.com">pandeyravinder078@gmail.com</a>. I'm always open to suggestions and improvements.
-</p>
+### 🚀 Frontend Universe
+<div align="center">
 
-![snake gif](https://github.com/ravin972/ravin972/blob/output/github-contribution-grid-snake.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img width=100% title="Ravinder Pandey" alt="Ravinder-Pandey"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+</div>
 
+### ⚡ Backend Powerhouse
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-404D59?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+</div>
+
+### 🗄️ Database & Cloud
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-039BE5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+</div>
+
+### 🤖 AI & Automation
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white)
+
+</div>
+
+### 🛠️ Development Tools
+<div align="center">
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+</div>
+
+### 🎨 Design & Creative
+<div align="center">
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+</div>
+
+### 💳 Payment & Business
+<div align="center">
+
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-4285F4?style=for-the-badge&logo=razorpay&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+### 💻 Operating Systems
+<div align="center">
+
+![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br/>
+
+<!-- Activity Graph with Modern Style -->
+<h2 align="center">📊 Contribution Heatmap</h2>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravin972&custom_title=Ravin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</div>
+
+<br/>
+
+<!-- Social Connect Section -->
+<h2 align="center">🌐 Let's Connect & Collaborate</h2>
+
+<div align="center">
+
+<!-- Daily.dev Card -->
+<a href="https://app.daily.dev/ravinder65">
+<img src="https://api.daily.dev/devcards/v2/tfARAH3bQHIDdqoXw1DE1.png?type=wide&r=4ta" width="652" alt="Ravinder's Dev Card"/>
+</a>
+
+<br/><br/>
+
+<!-- Social Links -->
+<a href="https://sparkly-wisp-b300ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ravinder-pandey-56041b187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/ravinpandey8"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/ravinpandey08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/>
+
+<a href="https://ravinpandey.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://leetcode.com/ravin08/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.sololearn.com/profile/15744969"><img src="https://img.shields.io/badge/Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<!-- Current Focus Section -->
+<h2 align="center">🎯 Current Focus & Goals</h2>
+
+<div align="center">
+
+```javascript
+const currentGoals = {
+  learning: [
+    "Advanced AI Integration 🤖",
+    "Modern Web Architecture 🏗️", 
+    "Performance Optimization ⚡",
+    "Vibe Coding with TRAE & CURSOR 🎨"
+  ],
+  building: [
+    "Scalable Full-Stack Applications 🚀",
+    "Fast Backend API - FastAPI ⚡",
+    "AI-Powered Development Tools 🛠️",
+    "Open Source Contributions 🌟",
+    "Personal Brand & Portfolio 💼"
+  ],
+  exploring: [
+    "Web3 Technologies 🌐",
+    "Serverless Architecture ☁️",
+    "Mobile Development 📱",
+    "DevOps & Cloud Native 🔧"
+  ]
+};
+```
+</div>
+
+<br/>
+
+<!-- Quote Section -->
+<h2 align="center">💭 Developer Wisdom</h2>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ravin972/ravin972@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ravin972/ravin972@output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ravin972/ravin972@output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- Support Section -->
+<h2 align="center">☕ Support My Work</h2>
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/pandeyravin">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+<a href="https://ko-fi.com/ravinpandey">
+<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<i>⭐ Star my repositories if you find them useful!</i>
+
+</div>
+
+<br/>
+
+<!-- Contact Section -->
+<h2 align="center">📬 Get In Touch</h2>
+
+<div align="center">
+
+📧 **Email:** pandeyravinder078@gmail.com  
+💼 **Portfolio:** [sparkly-wisp-b300ce.netlify.app](https://sparkly-wisp-b300ce.netlify.app/)  
+💭 **Fun Fact:** "The most important technology for developers in 2025 is the ability to learn new vibe coding technologies quickly."  
+
+</div>
+
+<br/>
+
+<!-- Footer with Wave Animation -->
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=fadeIn&fontColor=fff)
+
+### Made with ❤️ and lots of ☕ by Ravin Pandey
+
+<img src="https://komarev.com/ghpvc/?username=ravin972&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
+</div>
