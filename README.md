@@ -1,252 +1,492 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=RAVIN%20PANDEY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Vibe%20Coder&descAlignY=51&descAlign=50)
+# RAVIN PANDEY
+
+### `FULL-STACK ENGINEER` · `AI SYSTEMS` · `BACKEND ARCHITECTURE`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+AI-powered+products.;Designing+production-grade+backend+systems.;Realtime+%7C+Voice+AI+%7C+APIs+%7C+Infrastructure;Turning+complex+systems+into+simple+interfaces." alt="Typing animation" />
+
+<br>
+
+<a href="https://github.com/ravin972">
+  <img src="https://img.shields.io/badge/GitHub-ravin972-18181B?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ravinderpandey">
+  <img src="https://img.shields.io/badge/LinkedIn-Ravin%20Pandey-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://sparkly-wisp-b300ce.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
-<!-- Profile Views Counter with Modern Design -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ravin972&label=Profile%20views&color=blueviolet&style=for-the-badge&labelColor=black" />
-<img src="https://img.shields.io/github/followers/ravin972?label=Followers&style=for-the-badge&color=4c1d95&labelColor=black" />
-<img src="https://img.shields.io/github/stars/ravin972?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=black" />
-</div>
+<br>
 
-<br/>
+---
 
-<!-- Dynamic Typing Effect -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);Backend+Developer+%F0%9F%9A%80;Building+Tomorrow's+Web+Today;AI+%2B+Code+%3D+Magic+%E2%9C%A8;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-</div>
+## `01 / SYSTEM STATUS`
 
-<!-- Glassmorphism-style About Section -->
-<div align="center">
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                         RAVIN / ENGINEERING                          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  STATUS          ● BUILDING                                         │
+│  ROLE            Full-Stack Engineer                                │
+│  SPECIALTY       Backend Systems + AI Engineering                   │
+│  FOCUS           Production AI · Realtime Systems · Architecture    │
+│  ENVIRONMENT     TypeScript · Python · React · Node.js              │
+│  DATABASES       PostgreSQL · Redis                                 │
+│  INFRA           Docker · CI/CD · Cloud                             │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+> I build software across the stack, with a strong bias toward **backend systems, AI integration, realtime infrastructure, and production engineering**.
+
+I enjoy taking systems from:
+
+`idea → architecture → implementation → integration → testing → production`
+
+---
+
+## `02 / WHAT I BUILD`
+
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string[];
-  currentlyLearning: string[];
-  challenges: string[];
-  funFact: string;
-}
+### AI SYSTEMS
 
-const ravin: Developer = {
-  name: "Ravin Pandey",
-  location: "India 🇮🇳",
-  role: ["Backend Developer", "AI Integrator", "Vibe Coder"],
-  currentlyLearning: ["Advanced AI", "Modern Architecture", "Web3"],
-  challenges: ["Building scalable solutions", "Optimizing performance"],
-  funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
+AI-powered applications and product workflows.
 
-export default ravin;
-```
+* LLM integrations
+* AI agents & automation
+* AI-assisted product features
+* AI application architecture
+* Model/API integrations
+
+</td>
+<td width="50%" valign="top">
+
+### BACKEND SYSTEMS
+
+Backend infrastructure designed to survive beyond the demo.
+
+* REST APIs
+* Authentication & authorization
+* Multi-tenant architecture
+* PostgreSQL & Redis
+* Workers & queues
+* Service architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### REALTIME & VOICE
+
+Systems where latency and reliability actually matter.
+
+* WebSockets
+* Realtime media streams
+* Voice AI pipelines
+* STT → LLM → TTS
+* Streaming systems
+* Interruption / cancellation handling
+
+</td>
+<td width="50%" valign="top">
+
+### PRODUCTION ENGINEERING
+
+Because shipping is only half the job.
+
+* Docker
+* CI/CD
+* Automated testing
+* API hardening
+* Production debugging
+* Performance & reliability
+* Security boundaries
 
 </td>
 </tr>
 </table>
-</div>
 
-<br/>
+---
 
-<!-- Animated GitHub Stats with Modern Cards -->
-<h2 align="center">⚡ GitHub Analytics Dashboard</h2>
+## `03 / CURRENTLY SHIPPING`
+
+```text
+┌─ 01 ────────────────────────────────────────────────────────────────┐
+│ AI PRODUCT ENGINEERING                                             │
+│ Building practical AI-powered product experiences and integrations.│
+└────────────────────────────────────────────────────────────────────┘
+
+┌─ 02 ────────────────────────────────────────────────────────────────┐
+│ VOICE + REALTIME SYSTEMS                                           │
+│ Working with streaming audio, STT, LLM orchestration and TTS.     │
+└────────────────────────────────────────────────────────────────────┘
+
+┌─ 03 ────────────────────────────────────────────────────────────────┐
+│ BACKEND ARCHITECTURE                                               │
+│ Designing APIs, workers, queues, tenant boundaries and services.  │
+└────────────────────────────────────────────────────────────────────┘
+
+┌─ 04 ────────────────────────────────────────────────────────────────┐
+│ PRODUCTION HARDENING                                               │
+│ Testing edge cases, fixing runtime failures and improving         │
+│ reliability before systems reach real users.                      │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `04 / ENGINEERING LOG`
+
+### `2026`
+
+```text
+AI + BACKEND
+├── AI-powered product integrations
+├── Production backend architecture
+├── OAuth & social platform integrations
+├── End-to-end integration testing
+└── Production reliability & hardening
+
+VOICE AI
+├── Realtime conversational voice pipelines
+├── Twilio media streaming
+├── Speech-to-Text / LLM / Text-to-Speech
+├── Barge-in & cancellation handling
+├── Queue / worker runtime hardening
+└── Latency & conversation analytics
+
+FULL-STACK
+├── React / Next.js applications
+├── TypeScript backend services
+├── Python / FastAPI services
+├── API architecture
+└── Production deployment workflows
+```
+
+---
+
+## `05 / SELECTED ENGINEERING WORK`
+
+### `VOICE AI RUNTIME`
+
+> Realtime conversational infrastructure connecting telephony, speech recognition, LLM reasoning and speech synthesis.
+
+```text
+PHONE
+  │
+  ▼
+TWILIO
+  │
+  ▼
+MEDIA STREAM
+  │
+  ├────► STT
+  │       │
+  │       ▼
+  │      LLM
+  │       │
+  │       ▼
+  │      TTS
+  │       │
+  ◄───────┘
+  │
+  ▼
+REALTIME RESPONSE
+```
+
+**Focus:** realtime communication · streaming · cancellation · latency · reliability
+
+---
+
+### `MULTI-TENANT BACKEND SYSTEMS`
+
+> Designing backend services where authentication, authorization and tenant boundaries are treated as first-class architecture concerns.
+
+```text
+REQUEST
+   │
+   ▼
+AUTHENTICATION
+   │
+   ▼
+ORGANIZATION / TENANT
+   │
+   ▼
+AUTHORIZATION
+   │
+   ▼
+SERVICE
+   │
+   ├── PostgreSQL
+   ├── Redis
+   └── Workers / Queues
+```
+
+**Focus:** tenant isolation · middleware · service boundaries · data integrity · scalable APIs
+
+---
+
+### `SOCIAL PLATFORM INTEGRATIONS`
+
+> Building production OAuth flows and synchronization pipelines that connect external platforms to backend systems.
+
+```text
+USER
+ │
+ ▼
+OAUTH
+ │
+ ▼
+AUTHORIZATION
+ │
+ ▼
+TOKEN EXCHANGE
+ │
+ ▼
+PROFILE SYNC
+ │
+ ▼
+CONTENT SYNC
+ │
+ ▼
+PERSISTENCE
+ │
+ ▼
+E2E VALIDATION
+```
+
+**Focus:** OAuth · API integrations · synchronization · persistence · end-to-end testing
+
+---
+
+### `CONVERSATION ANALYTICS`
+
+> Turning realtime conversations into observable engineering data.
+
+```text
+CALL
+ │
+ ├── Transcript
+ ├── Conversation State
+ ├── Questions / Answers
+ ├── Qualification
+ ├── STT Latency
+ ├── LLM Latency
+ ├── TTS Latency
+ └── Total Turn Latency
+          │
+          ▼
+     ANALYTICS UI
+```
+
+**Focus:** observability · analytics · realtime systems · frontend visualization
+
+---
+
+## `06 / TECHNICAL STACK`
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Django-18181B?style=flat-square&logo=django&logoColor=44B78B" />
+</p>
+
+### Data
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=2D3748" />
+</p>
+
+### AI / Voice
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-18181B?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-18181B?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+<img src="https://img.shields.io/badge/Anthropic-18181B?style=flat-square&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Deepgram-18181B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-18181B?style=flat-square&logoColor=white" />
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/GitHub_Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Nginx-18181B?style=flat-square&logo=nginx&logoColor=009639" />
+</p>
+
+### Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-18181B?style=flat-square&logo=jest&logoColor=C21325" />
+<img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/SonarQube-18181B?style=flat-square&logo=sonarqube&logoColor=4E9BCD" />
+</p>
+
+---
+
+## `07 / HOW I THINK ABOUT ENGINEERING`
+
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  01  DESIGN FOR FAILURE                                           │
+│      Production systems fail. Good systems know how to recover.   │
+│                                                                    │
+│  02  KEEP BOUNDARIES EXPLICIT                                     │
+│      Authentication, tenancy and service responsibilities         │
+│      should be obvious from the architecture.                    │
+│                                                                    │
+│  03  OBSERVE WHAT YOU BUILD                                       │
+│      If latency, failures and state cannot be observed,           │
+│      debugging becomes guesswork.                                 │
+│                                                                    │
+│  04  TEST BEHAVIOUR, NOT JUST LINES                               │
+│      A green coverage number means little if the system can       │
+│      still fail in production.                                    │
+│                                                                    │
+│  05  SHIP, THEN IMPROVE                                           │
+│      Perfect architecture on paper is worthless if nothing ships. │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `08 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ravin972&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ravin972&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravin972&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true" />
 
-<br/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&hide_border=true&theme=transparent" />
 
-<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ravin972&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br><br>
 
-</div>
-
-<br/>
-
-<!-- Modern Trophy Case -->
-<h2 align="center">🏆 Achievement Showcase</h2>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravin972&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
-<br/>
-
-<!-- Tech Stack with Neon Effect -->
-<h2 align="center">🛠️ Technology Arsenal</h2>
-
-### 🚀 Frontend Universe
-<div align="center">
-  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin972&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=html,css" />
 
 </div>
 
-### ⚡ Backend Powerhouse
+<br>
+
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-404D59?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravin972&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Engineering%20Activity" width="96%" />
 
 </div>
 
-### 🗄️ Database & Cloud
-<div align="center">
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-039BE5?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+## `09 / BEYOND THE CODE`
 
-</div>
+```text
+I am interested in the intersection of:
 
-### 🤖 AI & Automation
-<div align="center">
+        SOFTWARE
+           +
+          AI
+           +
+       SYSTEMS
+           +
+       PRODUCT
+           +
+        PEOPLE
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white)
+The goal isn't to use the newest technology.
 
-</div>
+The goal is to build something that works,
+scales when it needs to,
+and solves a real problem.
+```
 
-### 🛠️ Development Tools
-<div align="center">
+---
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
-</div>
-
-### 🎨 Design & Creative
-<div align="center">
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-
-</div>
-
-### 💳 Payment & Business
-<div align="center">
-
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-4285F4?style=for-the-badge&logo=razorpay&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
-
-### 💻 Operating Systems
-<div align="center">
-
-![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
-<!-- Activity Graph with Modern Style -->
-<h2 align="center">📊 Contribution Heatmap</h2>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravin972&custom_title=Ravin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
-
-<!-- Social Connect Section -->
-<h2 align="center">🌐 Let's Connect & Collaborate</h2>
+## `10 / FIND ME`
 
 <div align="center">
 
-<!-- Daily.dev Card -->
-<a href="https://app.daily.dev/ravinder65">
-<img src="https://api.daily.dev/devcards/v2/tfARAH3bQHIDdqoXw1DE1.png?type=wide&r=4ta" width="652" alt="Ravinder's Dev Card"/>
+<a href="https://github.com/ravin972">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/ravinderpandey">
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
-<!-- Social Links -->
-<a href="https://sparkly-wisp-b300ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ravinder-pandey-56041b187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/ravinpandey8"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/ravinpandey08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://sparkly-wisp-b300ce.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-<br/>
-
-<a href="https://ravinpandey.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-<a href="https://leetcode.com/ravin08/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-<a href="https://www.sololearn.com/profile/15744969"><img src="https://img.shields.io/badge/Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a>
+<a href="mailto:pandeyravinder078@gmail.com">
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
 
-<br/>
-
-<!-- Current Focus Section -->
-<h2 align="center">🎯 Current Focus & Goals</h2>
+<br>
 
 <div align="center">
 
-```javascript
-const currentGoals = {
-  learning: [
-    "Advanced AI Integration 🤖",
-    "Modern Web Architecture 🏗️", 
-    "Performance Optimization ⚡",
-    "Vibe Coding with TRAE & CURSOR 🎨"
-  ],
-  building: [
-    "Scalable Full-Stack Applications 🚀",
-    "Fast Backend API - FastAPI ⚡",
-    "AI-Powered Development Tools 🛠️",
-    "Open Source Contributions 🌟",
-    "Personal Brand & Portfolio 💼"
-  ],
-  exploring: [
-    "Web3 Technologies 🌐",
-    "Serverless Architecture ☁️",
-    "Mobile Development 📱",
-    "DevOps & Cloud Native 🔧"
-  ]
-};
+### `BUILD SYSTEMS. SHIP PRODUCTS. KEEP LEARNING.`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ravin972&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│                     RAVIN PANDEY                          │
+│                                                           │
+│       Full-Stack Engineer building AI-powered systems.   │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
-</div>
 
-<br/>
-
-<!-- Quote Section -->
-<h2 align="center">💭 Developer Wisdom</h2>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br/>
@@ -265,47 +505,3 @@ const currentGoals = {
 </div>
 
 <br/>
-
-<!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/pandeyravin">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-<a href="https://ko-fi.com/ravinpandey">
-<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<i>⭐ Star my repositories if you find them useful!</i>
-
-</div>
-
-<br/>
-
-<!-- Contact Section -->
-<h2 align="center">📬 Get In Touch</h2>
-
-<div align="center">
-
-📧 **Email:** pandeyravinder078@gmail.com  
-💼 **Portfolio:** [sparkly-wisp-b300ce.netlify.app](https://sparkly-wisp-b300ce.netlify.app/)  
-💭 **Fun Fact:** "The most important technology for developers in 2025 is the ability to learn new vibe coding technologies quickly."  
-
-</div>
-
-<br/>
-
-<!-- Footer with Wave Animation -->
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=fadeIn&fontColor=fff)
-
-### Made with ❤️ and lots of ☕ by Ravin Pandey
-
-<img src="https://komarev.com/ghpvc/?username=ravin972&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
-</div>
