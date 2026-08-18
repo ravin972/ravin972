@@ -1,34 +1,43 @@
-# Full Profile
+<div align="center">
 
 <br>
 
-# RAVIN<br>PANDEY
+# RAVIN PANDEY
 
 ### SOFTWARE ENGINEER
 
-**I build software that thinks, communicates, scales and ships.**
+<br>
+
+## **I BUILD THE SYSTEM BEHIND THE EXPERIENCE.**
 
 <br>
 
-`AI SYSTEMS`   `BACKEND`   `REALTIME`   `PRODUCT`
+`AI`   `BACKEND`   `REALTIME`   `PRODUCT`
 
 <br><br>
 
 <a href="https://github.com/ravin972">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
- 
+
 <a href="https://www.linkedin.com/in/ravinderpandey">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
- 
+
 <a href="https://sparkly-wisp-b300ce.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=From+idea+to+architecture+to+production.;AI+%2B+software+%2B+systems.;Realtime+voice+%7C+backend+%7C+full-stack.;I+care+about+what+happens+after+the+demo." alt="Ravin Pandey" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Software+Engineer.;AI-powered+products.;Realtime+systems.;Backend+architecture.;From+idea+to+production."
+alt="Software Engineer"
+/>
+
+<br><br>
+
+`AVAILABLE FOR INTERESTING ENGINEERING PROBLEMS`
 
 </div>
 
@@ -38,295 +47,381 @@
 
 <div align="center">
 
-### `THE SHORT VERSION`
+### `01 / THE POSITION`
+
+# SOFTWARE ENGINEER
+
+### **I turn complicated problems into products that work.**
 
 <br>
 
-> **Software Engineer focused on building AI-powered products, backend systems, realtime infrastructure and production-ready applications.**
+AI systems.
+Backend architecture.
+Realtime infrastructure.
+Full-stack products.
 
 <br>
 
-`TYPE → SYSTEMS → PRODUCT → AI → SHIP`
+**Not just the interface. Not just the API. The system behind it.**
 
 </div>
 
 ---
 
-# 01 — THE ENGINEER
+<br>
 
-I don't define myself by a list of frameworks.
-
-I like taking complicated problems and turning them into systems that are:
-
-**understandable · testable · observable · scalable · useful**
-
-My work sits at the intersection of:
-
-```text
-                     SOFTWARE
-                         │
-             ┌───────────┼───────────┐
-             ▼           ▼           ▼
-            AI        SYSTEMS      PRODUCT
-             │           │           │
-             └───────────┼───────────┘
-                         ▼
-                      USERS
-```
-
-### What I spend my time building
-
-| AREA         | WHAT IT MEANS                                                        |
-| :----------- | :------------------------------------------------------------------- |
-| `AI`         | LLM integrations, AI-powered workflows, intelligent product features |
-| `BACKEND`    | APIs, services, authentication, data, queues and workers             |
-| `REALTIME`   | WebSockets, streaming, voice and latency-sensitive systems           |
-| `PRODUCT`    | Full-stack applications that solve actual problems                   |
-| `PRODUCTION` | Testing, reliability, security boundaries, deployment and debugging  |
-
----
-
-# 02 — THINGS I'VE BUILT
+# 02 / WHAT I BUILD
 
 <br>
 
-## `01` — VOICE AI
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### **When software needs to listen before it can respond.**
+### `01`
 
-I've worked on realtime conversational voice systems connecting:
+## AI
+
+**Software that can reason, automate and assist.**
+
+LLM integrations
+AI-powered workflows
+Intelligent product features
+AI application architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+### `02`
+
+## SYSTEMS
+
+**The infrastructure that makes products reliable.**
+
+APIs
+Multi-tenancy
+Authentication
+Queues & workers
+Databases
+Service architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+### `03`
+
+## REALTIME
+
+**When milliseconds and state actually matter.**
+
+WebSockets
+Streaming
+Voice AI
+Media pipelines
+STT → LLM → TTS
+Latency & cancellation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 03 / SELECTED WORK
+
+### `THE PART WHERE THE RESUME BECOMES REAL.`
+
+</div>
+
+<br>
+
+## `01 — VOICE AI`
+
+# SOFTWARE THAT LISTENS.
+
+I worked on realtime conversational systems where a phone call becomes an AI interaction.
 
 ```text
-PHONE
-  │
-  ▼
-TWILIO
-  │
-  ▼
-MEDIA STREAM
-  │
-  ├───────────────┐
-  ▼               │
- STT              │
-  │               │
-  ▼               │
- LLM              │
-  │               │
-  ▼               │
- TTS ─────────────┘
-  │
-  ▼
-REALTIME RESPONSE
+                    HUMAN
+                      │
+                      ▼
+                   PHONE
+                      │
+                      ▼
+                   TWILIO
+                      │
+                      ▼
+                MEDIA STREAM
+                      │
+                      ▼
+                    STT
+                      │
+                      ▼
+                    LLM
+                      │
+                      ▼
+                    TTS
+                      │
+                      ▼
+               REALTIME VOICE
 ```
 
-### Engineering problems
+### THE ENGINEERING
 
-`audio streaming` · `speech recognition` · `LLM orchestration` · `TTS`
+`streaming` · `speech recognition` · `LLM orchestration`
 
-`barge-in` · `cancellation` · `latency` · `state management`
+`text-to-speech` · `barge-in` · `cancellation`
 
-`production reliability` · `automated testing`
+`state management` · `latency` · `reliability`
+
+<br>
+
+> **The interesting problem isn't making an AI talk.
+> It's making it behave correctly when everything happens at once.**
 
 ---
 
 <br>
 
-## `02` — BACKEND SYSTEMS
+## `02 — BACKEND ARCHITECTURE`
 
-### **The part users don't see — and everything depends on.**
+# SOFTWARE USERS DON'T SEE.
 
-I've worked across backend systems involving:
+### **The part everything depends on.**
 
 ```text
-AUTH
-  ↓
+REQUEST
+   │
+   ▼
+AUTHENTICATION
+   │
+   ▼
 TENANT / ORGANIZATION
-  ↓
+   │
+   ▼
 AUTHORIZATION
-  ↓
+   │
+   ▼
 SERVICE
-  ↓
-DATABASE
-  ↓
-QUEUE
-  ↓
-WORKER
-  ↓
-EXTERNAL SYSTEM
+   │
+   ├───────────────┐
+   ▼               ▼
+DATABASE          QUEUE
+                   │
+                   ▼
+                 WORKER
+                   │
+                   ▼
+             EXTERNAL SYSTEM
 ```
 
-### Engineering problems
+### THE ENGINEERING
 
-`multi-tenancy` · `tenant isolation` · `middleware`
+`Node.js` · `TypeScript` · `PostgreSQL`
 
-`service boundaries` · `PostgreSQL` · `Redis`
+`Redis` · `BullMQ` · `middleware`
 
-`BullMQ` · `workers` · `background processing`
+`multi-tenancy` · `tenant isolation`
 
-`API design` · `security hardening`
+`service boundaries` · `security hardening`
+
+<br>
+
+> **A backend isn't good because the endpoint returns 200.
+> It's good when the system still behaves correctly under pressure.**
 
 ---
 
 <br>
 
-## `03` — SOCIAL PLATFORM INTEGRATIONS
+## `03 — PLATFORM INTEGRATIONS`
 
-### **Connecting products to platforms without pretending OAuth is just a button.**
+# THE INTERNET IS AN API.
 
-Production integration work has included flows such as:
+Connecting products to external platforms means dealing with much more than OAuth.
 
 ```text
 USER
- ↓
+ │
+ ▼
 OAUTH
- ↓
+ │
+ ▼
 AUTHORIZATION
- ↓
+ │
+ ▼
 TOKEN EXCHANGE
- ↓
-PROFILE SYNC
- ↓
-ACCOUNT PERSISTENCE
- ↓
-CONTENT SYNC
- ↓
-AGGREGATION
- ↓
+ │
+ ▼
+ACCOUNT
+ │
+ ▼
+PROFILE
+ │
+ ▼
+CONTENT
+ │
+ ▼
+PERSISTENCE
+ │
+ ▼
 E2E VALIDATION
 ```
 
-The interesting part isn't the OAuth redirect.
+### THE ENGINEERING
 
-It's everything that happens **after it succeeds.**
+`OAuth` · `API integrations` · `token lifecycle`
+
+`account synchronization` · `content synchronization`
+
+`persistence` · `production E2E`
+
+<br>
+
+> **The OAuth redirect is the easy part.
+> Everything after it is engineering.**
 
 ---
 
 <br>
 
-## `04` — CONVERSATION ANALYTICS
+## `04 — CONVERSATION ANALYTICS`
 
-### **Making realtime systems observable.**
+# MAKE THE SYSTEM OBSERVABLE.
 
-I worked on analytics around conversational systems including:
+A realtime conversation isn't just audio.
+
+It's a stream of engineering signals.
 
 ```text
-TRANSCRIPT
-    +
-QUESTIONS / ANSWERS
-    +
-CONVERSATION STATE
-    +
-QUALIFICATION
-    +
-STT LATENCY
-    +
-LLM LATENCY
-    +
-TTS LATENCY
-    =
-ENGINEERING SIGNAL
+                    CONVERSATION
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+      TRANSCRIPT       STATE        QUALIFICATION
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                      LATENCY
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+            STT         LLM         TTS
+             │           │           │
+             └───────────┼───────────┘
+                         ▼
+                     ANALYTICS
 ```
 
-Because if you can't see where the system is slow or failing,
+### THE RESULT
 
-**you're debugging by guessing.**
+**A system you can inspect instead of guess about.**
 
 ---
 
-# 03 — HOW I BUILD
-
 <br>
-
-### `01 / START WITH THE SYSTEM`
-
-Before writing code:
-
-```text
-What is the actual problem?
-Who owns the state?
-Where can this fail?
-What happens when dependencies disappear?
-What happens when two things happen at once?
-```
-
-<br>
-
-### `02 / MAKE BOUNDARIES OBVIOUS`
-
-Authentication.
-
-Authorization.
-
-Tenant isolation.
-
-Service responsibilities.
-
-Data ownership.
-
-If those boundaries are hidden inside 2,000 lines of code,
-
-the architecture is already expensive.
-
-<br>
-
-### `03 / DESIGN FOR FAILURE`
-
-```text
-NETWORK FAILURE
-      ↓
-DEPENDENCY FAILURE
-      ↓
-QUEUE FAILURE
-      ↓
-PARTIAL FAILURE
-      ↓
-RETRY
-      ↓
-RECOVERY
-      ↓
-OBSERVABILITY
-```
-
-Production is not the happy path.
-
-<br>
-
-### `04 / TEST BEHAVIOUR`
-
-I care less about:
-
-```text
-"How many lines are covered?"
-```
-
-and more about:
-
-```text
-"Can the system still behave correctly
-when something goes wrong?"
-```
-
-<br>
-
-### `05 / SHIP`
-
-Architecture matters.
-
-Code quality matters.
-
-Tests matter.
-
-But eventually:
-
-**someone has to press deploy.**
 
 ---
-
-# 04 — THE STACK
 
 <div align="center">
 
-### LANGUAGES
+# 04 / HOW I THINK
+
+### **GOOD ENGINEERING IS MOSTLY GOOD DECISIONS.**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 / CLARITY`
+
+Before writing code:
+
+> What is the actual problem?
+
+> Who owns the state?
+
+> Where does responsibility belong?
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02 / FAILURE`
+
+Before shipping:
+
+> What happens when the network fails?
+
+> What happens when a dependency fails?
+
+> What happens when two events happen together?
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03 / BOUNDARIES`
+
+I care about explicit:
+
+`authentication`
+
+`authorization`
+
+`tenant isolation`
+
+`service ownership`
+
+`data ownership`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04 / OBSERVABILITY`
+
+If the system is slow:
+
+**I want to know where.**
+
+If the system fails:
+
+**I want to know why.**
+
+If it recovers:
+
+**I want to know how.**
+
+</td>
+</tr>
+</table>
+
+---
+
+<br>
+
+<div align="center">
+
+# 05 / THE STACK
+
+### **TOOLS ARE THE MEDIUM. SYSTEMS ARE THE WORK.**
+
+<br>
+
+### CORE
 
 <img src="https://skillicons.dev/icons?i=ts,js,python" />
 
@@ -356,7 +451,7 @@ But eventually:
 
 <br><br>
 
-### TOOLS
+### ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=git,github,jest,postman" />
 
@@ -367,7 +462,7 @@ But eventually:
 ### AI / VOICE
 
 ```text
-LLMs
+LLM
 ├── OpenAI
 ├── Google Gemini
 └── Anthropic
@@ -376,11 +471,11 @@ VOICE
 ├── Twilio
 ├── Deepgram
 ├── ElevenLabs
-├── Cartesia
-└── Fish.audio
+├── Fish.audio
+└── Cartesia
 
-ENGINEERING
-├── APIs
+SYSTEMS
+├── REST APIs
 ├── WebSockets
 ├── Queues
 ├── Workers
@@ -390,176 +485,294 @@ ENGINEERING
 
 ---
 
-# 05 — THE DIFFERENCE
+<br>
 
-Most developer profiles say:
+<div align="center">
 
-```text
-I know React.
-I know Node.
-I know Python.
-I know Docker.
-I know AI.
-```
+# 06 / THE WORKFLOW
 
-Mine is closer to:
+### `IDEA → SYSTEM → PRODUCT → PRODUCTION`
+
+</div>
+
+<br>
 
 ```text
-Give me a system.
-
-I'll figure out:
-
-        WHAT
-         ↓
-       WHY
-         ↓
-      ARCHITECTURE
-         ↓
-    IMPLEMENTATION
-         ↓
-       TESTING
-         ↓
-    INTEGRATION
-         ↓
-     PRODUCTION
-         ↓
-      FAILURE
-         ↓
-     IMPROVEMENT
-```
-
-That's the part of engineering I enjoy.
-
----
-
-# 06 — CURRENT MODE
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  MODE                                                       │
-│  ──────────────────────────────────────────────────────────  │
-│  BUILDING                                                   │
-│                                                              │
-│  CURRENT FOCUS                                              │
-│  ──────────────────────────────────────────────────────────  │
-│  AI Engineering                                             │
-│  Backend Architecture                                       │
-│  Realtime Systems                                           │
-│  Production Reliability                                     │
-│                                                              │
-│  CURRENT QUESTION                                           │
-│  ──────────────────────────────────────────────────────────  │
-│  "How do we make this work in production?"                  │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  01  UNDERSTAND                                                │
+│      What are we actually trying to solve?                     │
+│                                                                 │
+│                         ↓                                       │
+│                                                                 │
+│  02  DESIGN                                                    │
+│      What should the system look like?                         │
+│                                                                 │
+│                         ↓                                       │
+│                                                                 │
+│  03  BUILD                                                     │
+│      Turn architecture into working software.                   │
+│                                                                 │
+│                         ↓                                       │
+│                                                                 │
+│  04  TEST                                                      │
+│      Break it before users do.                                 │
+│                                                                 │
+│                         ↓                                       │
+│                                                                 │
+│  05  SHIP                                                      │
+│      Put it in the real world.                                 │
+│                                                                 │
+│                         ↓                                       │
+│                                                                 │
+│  06  OBSERVE                                                   │
+│      Find what the happy path didn't reveal.                   │
+│                                                                 │
+│                         ↓                                       │
+│                                                                 │
+│  07  IMPROVE                                                   │
+│      Make the next version better.                             │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 07 — ENGINEERING TIMELINE
+<br>
+
+<div align="center">
+
+# 07 / CURRENTLY
+
+### `BUILD MODE: ON`
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### AI
+
+AI-powered products
+LLM integrations
+AI workflows
+
+</td>
+
+<td align="center">
+
+### BACKEND
+
+Architecture
+Multi-tenancy
+Workers
+Queues
+
+</td>
+
+<td align="center">
+
+### REALTIME
+
+Voice
+Streaming
+WebSockets
+Latency
+
+</td>
+
+<td align="center">
+
+### PRODUCTION
+
+Testing
+Reliability
+CI/CD
+Hardening
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<br>
+
+# 08 / ENGINEERING LOG
 
 ```text
 2026
- │
- ├── AI PRODUCT ENGINEERING
- │
- ├── VOICE AI / REALTIME SYSTEMS
- │
- ├── BACKEND ARCHITECTURE
- │
- ├── MULTI-TENANT SYSTEMS
- │
- ├── SOCIAL / OAUTH INTEGRATIONS
- │
- ├── QUEUES + WORKERS
- │
- ├── PRODUCTION HARDENING
- │
- └── FULL-STACK PRODUCT DEVELOPMENT
+
+AI PRODUCT ENGINEERING
+    └─ AI-powered product integrations
+    └─ AI application workflows
+
+VOICE AI
+    └─ Realtime conversational systems
+    └─ STT / LLM / TTS pipelines
+    └─ Media streaming
+    └─ Barge-in & cancellation
+    └─ Conversation analytics
+
+BACKEND
+    └─ Multi-tenant architecture
+    └─ Authentication & authorization
+    └─ Queues & workers
+    └─ Redis / PostgreSQL
+    └─ Service refactoring
+
+PLATFORM INTEGRATIONS
+    └─ OAuth flows
+    └─ Account synchronization
+    └─ Content integrations
+    └─ End-to-end validation
+
+PRODUCTION
+    └─ Testing
+    └─ Security boundaries
+    └─ CI/CD
+    └─ Runtime debugging
+    └─ Reliability improvements
 ```
-
-The common thread:
-
-> **Build something real. Find where it breaks. Understand why. Make it better.**
 
 ---
 
-# 08 — GITHUB / PROOF
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravin972&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" width="49%" />
+# 09 / PROOF
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravin972&hide_border=true&theme=transparent" width="49%" />
+<div align="center">
+
+### LESS TALK. MORE CODE.
+
+<br>
+
+<a href="https://streak-stats.vercel.app/">
+<img src="https://streak-stats.vercel.app/?user=ravin972&hide_border=true&theme=transparent" width="70%" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin972&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=html,css" width="40%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravin972&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=BUILDING%20IN%20PUBLIC" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravin972&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=8B5CF6&area=true&hide_border=true&custom_title=BUILDING" width="94%" />
 
 </div>
 
 ---
 
-# 09 — OUTSIDE THE CODE
-
-I am interested in the space where:
-
-```text
-             TECHNOLOGY
-                  +
-                DESIGN
-                  +
-                AI
-                  +
-               PRODUCT
-                  +
-              HUMAN USE
-```
-
-meet.
-
-Because technically impressive software that nobody wants to use
-
-is still a bad product.
-
----
-
-# 10 — IF YOU'RE HERE FOR HIRING
+<br>
 
 <div align="center">
 
-### You probably don't need another developer who can list 30 technologies.
-
-### You need someone who can take a messy problem
-
-### and turn it into something that works.
+# 10 / WHY ME?
 
 <br>
 
-**That's the kind of engineering I'm interested in.**
+## **I DON'T JUST WANT TO WRITE CODE.**
+
+### I WANT TO UNDERSTAND THE SYSTEM.
 
 <br>
+
+I can move between:
+
+`PRODUCT`
+
+↓
+
+`FRONTEND`
+
+↓
+
+`BACKEND`
+
+↓
+
+`AI`
+
+↓
+
+`INFRASTRUCTURE`
+
+↓
+
+`PRODUCTION`
+
+<br>
+
+### **That makes me useful when the problem doesn't fit neatly into one box.**
+
+</div>
+
+---
+
+<br>
+
+# 11 / IF YOU'RE HIRING
+
+<div align="center">
+
+<br>
+
+## **DON'T HIRE ME BECAUSE I KNOW A FRAMEWORK.**
+
+### Hire me when you have a problem that needs
+
+### **ownership, systems thinking and execution.**
+
+<br>
+
+---
+
+### I AM INTERESTED IN
+
+`SOFTWARE ENGINEERING`
+
+`AI ENGINEERING`
+
+`BACKEND SYSTEMS`
+
+`REALTIME PRODUCTS`
+
+`FULL-STACK PRODUCT ENGINEERING`
+
+<br>
+
+### I LIKE PROBLEMS THAT ARE
+
+**complex enough to be interesting**
+
+**real enough to matter**
+
+**hard enough to require thinking**
+
+<br>
+
+---
 
 <a href="https://www.linkedin.com/in/ravinderpandey">
 
-<img src="https://img.shields.io/badge/LET'S_TALK-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/START_A_CONVERSATION-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </a>
 
- 
+  
 
-<a href="mailto:[pandeyravinder078@gmail.com](mailto:pandeyravinder078@gmail.com)">
+<a href="mailto:pandeyravinder078@gmail.com">
 
-<img src="https://img.shields.io/badge/EMAIL_ME-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/SEND_AN_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
+
+<br><br>
+
+<a href="https://sparkly-wisp-b300ce.netlify.app/">
+
+<img src="https://img.shields.io/badge/SEE_THE_PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
 </a>
 
@@ -567,24 +780,34 @@ is still a bad product.
 
 ---
 
+<br>
+
 <div align="center">
 
-<br>
+# RAVIN PANDEY
 
-# BUILD.
-
-# BREAK.
-
-# UNDERSTAND.
-
-# SHIP.
+### SOFTWARE ENGINEER
 
 <br>
 
-`RAVIN PANDEY / SOFTWARE ENGINEER`
+**AI · SYSTEMS · PRODUCT**
+
+<br><br>
+
+```text
+BUILD SOMETHING REAL.
+BREAK IT.
+UNDERSTAND IT.
+MAKE IT BETTER.
+SHIP IT.
+```
 
 <br>
 
-<a href="https://github.com/ravin972">github.com/ravin972</a>
+`github.com/ravin972`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ravin972&style=flat-square&color=8B5CF6&label=VISITORS" />
 
 </div>
