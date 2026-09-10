@@ -66,6 +66,8 @@ Full-stack products.
 
 </div>
 
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/ravin972)](https://ghfind.com/u/ravin972?ref=badge)
+
 ---
 
 <br>
