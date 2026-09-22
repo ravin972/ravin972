@@ -11,28 +11,39 @@ def prep_photo(
     output_path: str = "data/source-prepped.png",
 ):
     if not os.path.exists(input_path):
-        print(f"Error: '{input_path}' not found. Please provide an image.")
+        print(f"Error: '{input_path}' not found.")
         sys.exit(1)
 
-    print(f"1. Removing background from {input_path}...")
-    with open(input_path, "rb") as f:
-        img_bytes = f.read()
-    no_bg = remove(img_bytes)
+    print(f"1. Loading image from {input_path}...")
+    pil_raw = Image.open(input_path).convert("RGBA")
+
+    # Tight crop around the head/shoulders area (removes empty bottom torso)
+    w, h = pil_raw.size
+    crop_box = (int(w * 0.05), int(h * 0.05), int(w * 0.95), int(h * 0.88))
+    cropped = pil_raw.crop(crop_box)
 
     import io
 
-    pil_img = Image.open(io.BytesIO(no_bg)).convert("RGBA")
-    np_img = np.array(pil_img)
+    buf = io.BytesIO()
+    cropped.save(buf, format="PNG")
+    cropped_bytes = buf.getvalue()
+
+    print("2. Removing background using rembg...")
+    no_bg_bytes = remove(cropped_bytes)
+    pil_no_bg = Image.open(io.BytesIO(no_bg_bytes)).convert("RGBA")
+    np_img = np.array(pil_no_bg)
 
     rgb = np_img[:, :, :3]
     alpha = np_img[:, :, 3]
 
-    print("2. Enhancing contrast with CLAHE...")
+    print("3. Enhancing facial edge contrast via CLAHE...")
     gray = cv2.cvtColor(rgb, cv2.COLOR_RGB2GRAY)
-    clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
+
+    # CLAHE with clipLimit 3.5 gives sharp edge definition to sunglasses, hair, and beard
+    clahe = cv2.createCLAHE(clipLimit=3.5, tileGridSize=(8, 8))
     enhanced_gray = clahe.apply(gray)
 
-    print("3. Compositing onto white background...")
+    print("4. Compositing subject onto pure white background...")
     alpha_norm = (alpha / 255.0)[:, :, np.newaxis]
     white_bg = np.ones_like(rgb, dtype=np.float32) * 255.0
     fg = np.repeat(enhanced_gray[:, :, np.newaxis], 3, axis=2).astype(
