@@ -1,4 +1,4 @@
-<svg viewBox="0 0 572 734" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<svg viewBox="0 0 572 503" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
   <style>
     text {
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
@@ -238,119 +238,9 @@
         <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.575s" fill="freeze" />
       </rect>
     </clipPath>
-    <clipPath id="wipe-46">
-      <rect x="10" y="493.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.61s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-47">
-      <rect x="10" y="503.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.645s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-48">
-      <rect x="10" y="514.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.68s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-49">
-      <rect x="10" y="524.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.715s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-50">
-      <rect x="10" y="535.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.75s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-51">
-      <rect x="10" y="545.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.785s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-52">
-      <rect x="10" y="556.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.82s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-53">
-      <rect x="10" y="566.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.855s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-54">
-      <rect x="10" y="577.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.89s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-55">
-      <rect x="10" y="587.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.925s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-56">
-      <rect x="10" y="598.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.96s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-57">
-      <rect x="10" y="608.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="1.995s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-58">
-      <rect x="10" y="619.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.03s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-59">
-      <rect x="10" y="629.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.065s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-60">
-      <rect x="10" y="640.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.1s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-61">
-      <rect x="10" y="650.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.135s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-62">
-      <rect x="10" y="661.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.17s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-63">
-      <rect x="10" y="671.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.205s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-64">
-      <rect x="10" y="682.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.24s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-65">
-      <rect x="10" y="692.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.275s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-66">
-      <rect x="10" y="703.0" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.31s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="wipe-67">
-      <rect x="10" y="713.5" width="0" height="12.5">
-        <animate attributeName="width" from="0" to="572" dur="0.28s" begin="2.345s" fill="freeze" />
-      </rect>
-    </clipPath>
   </defs>
   <rect width="100%" height="100%" fill="#0d1117" rx="8" />
   <g>
-    <text x="10" y="18.5" clip-path="url(#wipe-0)">                                                                                            </text>    <text x="10" y="29.0" clip-path="url(#wipe-1)">                                                                                            </text>    <text x="10" y="39.5" clip-path="url(#wipe-2)">                                                                                            </text>    <text x="10" y="50.0" clip-path="url(#wipe-3)">                                                                                            </text>    <text x="10" y="60.5" clip-path="url(#wipe-4)">                                                                                            </text>    <text x="10" y="71.0" clip-path="url(#wipe-5)">                                          .:--:-::.                                         </text>    <text x="10" y="81.5" clip-path="url(#wipe-6)">                                      :=+*****cc**+-.                                       </text>    <text x="10" y="92.0" clip-path="url(#wipe-7)">                                    :*###sccccsccc*+*=-:.                                   </text>    <text x="10" y="102.5" clip-path="url(#wipe-8)">                                   =c####scss#######s**c+=`                                 </text>    <text x="10" y="113.0" clip-path="url(#wipe-9)">                                  +#########%%%%%%%#s+=cc**-                                </text>    <text x="10" y="123.5" clip-path="url(#wipe-10)">                                 `c####%#ssc*+=+*s%##s*+=++*`                               </text>    <text x="10" y="134.0" clip-path="url(#wipe-11)">                                 .-*#%%c+==-:::`:-css#s*++=*+                               </text>    <text x="10" y="144.5" clip-path="url(#wipe-12)">                                   .=#s=-:::`...`.:csssss**s+                               </text>    <text x="10" y="155.0" clip-path="url(#wipe-13)">                                     -c++--=----:. `+csscccs`                               </text>    <text x="10" y="165.5" clip-path="url(#wipe-14)">                                      *cc*::+ss+-:. .+cssss+                                </text>    <text x="10" y="176.0" clip-path="url(#wipe-15)">                                      =++:  `=+-:`.  :+++*c.                                </text>    <text x="10" y="186.5" clip-path="url(#wipe-16)">                                     .---`.  ````.   ``::-`                                 </text>    <text x="10" y="197.0" clip-path="url(#wipe-17)">                                     `--+*=`.`:`.    `.--`                                  </text>    <text x="10" y="207.5" clip-path="url(#wipe-18)">                                     .=***+--=:`. ...--:`                                   </text>    <text x="10" y="218.0" clip-path="url(#wipe-19)">                                      =*+++--==`````--:=                                    </text>    <text x="10" y="228.5" clip-path="url(#wipe-20)">                                      .++++----::-==:``                                     </text>    <text x="10" y="239.0" clip-path="url(#wipe-21)">                                      `cc**+++++++-`...                                     </text>    <text x="10" y="249.5" clip-path="url(#wipe-22)">                                     =######ssc+-` ..-s`                                    </text>    <text x="10" y="260.0" clip-path="url(#wipe-23)">                                   -s%###%##%#s*-... *#=                                    </text>    <text x="10" y="270.5" clip-path="url(#wipe-24)">                                :=*#%#####%%#%##sc**+***.                                   </text>    <text x="10" y="281.0" clip-path="url(#wipe-25)">                            `-*s##%scs##sc*#%#s####sc+c%*=:.                                </text>    <text x="10" y="291.5" clip-path="url(#wipe-26)">                        `-+ccscc**%s+**ssc+=##sssssc*+s%s=+*+=`                             </text>    <text x="10" y="302.0" clip-path="url(#wipe-27)">                     -+*csccc**+++c##ssc***==cc*+*c*+=c%#+=+*cc*-`                          </text>    <text x="10" y="312.5" clip-path="url(#wipe-28)">                   .s%%#c*****++===+cc*=+***+-=++====-+%%*==***cc**`                        </text>    <text x="10" y="323.0" clip-path="url(#wipe-29)">                   c#####c++**+===+#%+---+***+--=+=---=#%c=+***cc**c.                       </text>    <text x="10" y="333.5" clip-path="url(#wipe-30)">                  :#######*=**+==+**#@c=--+**c=---+=:--s%#+=+***c++c=                       </text>    <text x="10" y="344.0" clip-path="url(#wipe-31)">                  c#####%#s==cc=-+s*+s@s===+***----++--c%#+=-``+*++s+                       </text>    <text x="10" y="354.5" clip-path="url(#wipe-32)">                 c%######%#c=cs+-=ss+=c%%*===***---=*+-*%%*=:` `*++s=                       </text>    <text x="10" y="365.0" clip-path="url(#wipe-33)">                +%######ss##+*%c-=c#s*+*s%c===+*+---+c+*%%*==.`-*++s-                       </text>    <text x="10" y="375.5" clip-path="url(#wipe-34)">               .#########scsc+%s=-*ssc*++c%s+==+*---=*cc%%c-==+++=*c:                       </text>    <text x="10" y="386.0" clip-path="url(#wipe-35)">               :########ssssc=##*=+cssc*++*#%*==++--=+c#%%c-=+*++=*c:                       </text>    <text x="10" y="396.5" clip-path="url(#wipe-36)">               *%########cccc+#%s++csssc***+c%c====-=+c#%%c==++++=*c=                       </text>    <text x="10" y="407.0" clip-path="url(#wipe-37)">              .#####ssss#sc*+*%%#c**csssc***+*%s===-=+s%%%c==+++==cc+                       </text>    <text x="10" y="417.5" clip-path="url(#wipe-38)">              +%######ssccc*+c%%%sc*csssscc**++##+==-*#%%%c==+++==sc=                       </text>    <text x="10" y="428.0" clip-path="url(#wipe-39)">             .#########ssccc+s%%%#scccssssc**+==s%*=-+%#%%c=++++=+#*+:                      </text>    <text x="10" y="438.5" clip-path="url(#wipe-40)">             =%#########sc***%%%%%#scccssssc**+==s@c--#%%%c=+++==+s+*=                      </text>    <text x="10" y="449.0" clip-path="url(#wipe-41)">             c%###scccccssc+s%%%%%%#scccssssc*+=--s@#=+%%%c+++===+s+*=                      </text>    <text x="10" y="459.5" clip-path="url(#wipe-42)">            :######scc***ccc#%%%%%%#sscccssssc*+=--c@%+s%%s*=+==-+#c**:                     </text>    <text x="10" y="470.0" clip-path="url(#wipe-43)">            *%#####ss*++++c#%%%%%%%%#sscccsssscc+=--*%%c%%s=====-+sccc+.                    </text>    <text x="10" y="480.5" clip-path="url(#wipe-44)">           .#%###sssssccccs%%%%%%%%%##sscccccsssc+=-:*%%%%*======+#ssss:                    </text>    <text x="10" y="491.0" clip-path="url(#wipe-45)">           :%#####sc*ccsc#%%%%%%%%%%%##scc***ccssc*=--#%%#=======+%#sc*=                    </text>    <text x="10" y="501.5" clip-path="url(#wipe-46)">           -%#####c+***cccc%%%%%%%%%%###sc******ccc*+-*%%+-======+#ssc*:                    </text>    <text x="10" y="512.0" clip-path="url(#wipe-47)">           =%#%%###sscc+=+*%%%%%%%%%%%##scc***+++***c**%#-=====-==#sc**=                    </text>    <text x="10" y="522.5" clip-path="url(#wipe-48)">           -%######scc*++++#@%%%%%%%%%%##scc**++++++++c%c:+=====-=##s**-                    </text>    <text x="10" y="533.0" clip-path="url(#wipe-49)">            +%#######scc*+++*#%%%%%%%%%%##scc*++++++++*%s-==+++===ssc*+:                    </text>    <text x="10" y="543.5" clip-path="url(#wipe-50)">             =%%#####ssc***+=+s%%%%%%%%%###ssc*++++++++##-==+*+++=s%#c*=                    </text>    <text x="10" y="554.0" clip-path="url(#wipe-51)">              -#%######ss*+==*cc%%%%%%%%%#####c+==+++++#%===+****=+s#scc`                   </text>    <text x="10" y="564.5" clip-path="url(#wipe-52)">               `s%######sc**cc=+#s#%%%##%%####s*====+++s@+-=+*cc*+=*sss+                    </text>    <text x="10" y="575.0" clip-path="url(#wipe-53)">                 *%####sssss*=**+cc#%%c####%##s*+++++++s@*-=+*ccc**+*cc+:                   </text>    <text x="10" y="585.5" clip-path="url(#wipe-54)">                  -#%%%%%%%sc=-+s%c++#+*#%###ss*+++++++c@c=++*ccccc*+*cc=                   </text>    <text x="10" y="596.0" clip-path="url(#wipe-55)">                   `s%%#%#sc=` `s#+=-*+-s%#%#sc*+++++*+c@s=++*ccsssc*+*#-                   </text>    <text x="10" y="606.5" clip-path="url(#wipe-56)">                     +#%##c:`:=s#s**=*+-*#%%#c++++++***c%#=++**ccccssc+#:                   </text>    <text x="10" y="617.0" clip-path="url(#wipe-57)">                      `c%%#*=c%%#sss++==+#%%s+++++++++*c%%==*+******ccc#.                   </text>    <text x="10" y="627.5" clip-path="url(#wipe-58)">                        =#%%%%######*+*++#%#*++++++++**+s%+=+++********`                    </text>    <text x="10" y="638.0" clip-path="url(#wipe-59)">                         .c%#%%%###sscsc*#%c++**+++***+=s@s=++++******:                     </text>    <text x="10" y="648.5" clip-path="url(#wipe-60)">                          *%#%%%%###%#%##%s*********+==+s%%+=+***++**+                      </text>    <text x="10" y="659.0" clip-path="url(#wipe-61)">                          c%#%%%%#%%%%%%%#c*cc*****+===+s%@c-+*******=                      </text>    <text x="10" y="669.5" clip-path="url(#wipe-62)">                          s###%%%%%%%%%%%ssssccc*+=====+c%%#-=+*ccc*++:                     </text>    <text x="10" y="680.0" clip-path="url(#wipe-63)">                         :%####%%%%%%%%%%%%###sc*+=--===+#%%+=+*ccc*+*-                     </text>    <text x="10" y="690.5" clip-path="url(#wipe-64)">                         +%####%%%%%%#####%%##sc**+=---==s%@c-+*ccc*+*-                     </text>    <text x="10" y="701.0" clip-path="url(#wipe-65)">                         c%####%%%%%%%%#sss#sscccc*+=--==*%%#-+*cscc**-                     </text>    <text x="10" y="711.5" clip-path="url(#wipe-66)">                        .######%%%%%%%%%%%%###ssscc*+=-=++s%%+=*ccsc**=                     </text>    <text x="10" y="722.0" clip-path="url(#wipe-67)">                        `%#####%%%%%%##%%%%%%##ssscc+===++c%@*=+*csccc=                     </text>
+    <text x="10" y="18.5" clip-path="url(#wipe-0)">                                 .:-===-``-+****+-                                          </text>    <text x="10" y="29.0" clip-path="url(#wipe-1)">                            :-:`+css#####s#%####s#s+--==-:.                                 </text>    <text x="10" y="39.5" clip-path="url(#wipe-2)">                        .`-css#######ss######%%#%%%%%%%%%##cc*:                             </text>    <text x="10" y="50.0" clip-path="url(#wipe-3)">                      .=*c#s*sssss#%%#%%############%%#%%%%%%%%s+-.                         </text>    <text x="10" y="60.5" clip-path="url(#wipe-4)">                     `*c*ccc*s#####%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*-.                      </text>    <text x="10" y="71.0" clip-path="url(#wipe-5)">                     =+++*cccs###%%%%##%%%%%%%%%%%%%%%%%%%%%%%%###%%##+.                    </text>    <text x="10" y="81.5" clip-path="url(#wipe-6)">                    .=+**cssss##%%%###%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#=                   </text>    <text x="10" y="92.0" clip-path="url(#wipe-7)">                   .+*cccs####%####%%%%%##%%%%%%%%%#%##%%%%%%%%%%%%%%%%%%s-                 </text>    <text x="10" y="102.5" clip-path="url(#wipe-8)">                   +++ccs#%%#%%%%%%%%%%%##%%%%%%%%%%%%#%%%%%%%%%%%##%%%%%%%*.               </text>    <text x="10" y="113.0" clip-path="url(#wipe-9)">                  :++css##%%%%%%%%###%####%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%#+              </text>    <text x="10" y="123.5" clip-path="url(#wipe-10)">                 `+*s####%%%%%%#c***ccss##%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%@s`            </text>    <text x="10" y="134.0" clip-path="url(#wipe-11)">                .+ccsss#%%%%%#*+==---=*cs##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#.           </text>    <text x="10" y="144.5" clip-path="url(#wipe-12)">                 `=+**s#%%%%s=---::::-=+cs###%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%=           </text>    <text x="10" y="155.0" clip-path="url(#wipe-13)">                   :+*c###%s---::::::::-+*s###%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c           </text>    <text x="10" y="165.5" clip-path="url(#wipe-14)">                   `***ssss=:---::::::::-=*cs###%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%s.          </text>    <text x="10" y="176.0" clip-path="url(#wipe-15)">                   `***ccc=::``:::------===+cs#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%c           </text>    <text x="10" y="186.5" clip-path="url(#wipe-16)">                    -**cc:::-=+*cc**++**+++++*c##%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%#`          </text>    <text x="10" y="197.0" clip-path="url(#wipe-17)">                     .=**-:=c%%s##%#sssssc******cs#%%%%%%%%%%%%%%%%%%%%%%%%%%###s`          </text>    <text x="10" y="207.5" clip-path="url(#wipe-18)">                   :+*-=c=*`=%%ss%%%@@%%%%%##sscccs#%%%%%%%%%%%%%%%%%%%%%%%%####:           </text>    <text x="10" y="218.0" clip-path="url(#wipe-19)">                  -%#c`++=c`*#%#s%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#####.           </text>    <text x="10" y="228.5" clip-path="url(#wipe-20)">                  +ss*`+==*`c#%s#%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###%s            </text>    <text x="10" y="239.0" clip-path="url(#wipe-21)">                  +*#c:--+#+c%#c%%############%%%%%%%%%%%%%%##ss#%%%%%%%%#%###%=            </text>    <text x="10" y="249.5" clip-path="url(#wipe-22)">                  -s*==+++ccs%########ss**+++***ccs#%%%##s+=*ssccs%%%%%%#####%#             </text>    <text x="10" y="260.0" clip-path="url(#wipe-23)">                  .*-:-=++*+=*csscc*+--:--=+++***ccs#%###c=c#s++*=c%%%%%%####%-             </text>    <text x="10" y="270.5" clip-path="url(#wipe-24)">                   :*c*==*cs=`:::``...`:-=+**ccccss####sc*cs#+:-c=+%%%%%####%+              </text>    <text x="10" y="281.0" clip-path="url(#wipe-25)">                    `=s*+*ss-::``..``:-==+*cccccss####ss==%#s*:-c=s%%%%%%%##s.              </text>    <text x="10" y="291.5" clip-path="url(#wipe-26)">                     `ccc+-:`::````::--=+*ccssss####%##ss#sss-:+=c%%%%%%%%%c.               </text>    <text x="10" y="302.0" clip-path="url(#wipe-27)">                    .ccssc*+=:`.``:::-==+*ccsss####%##ssc=-====+s%%%%%%%%%c.                </text>    <text x="10" y="312.5" clip-path="url(#wipe-28)">                     +csc*c##c=```:--=+**ccssss####%##s==-:-=*cs%%%%%%%#%c                  </text>    <text x="10" y="323.0" clip-path="url(#wipe-29)">                     -*****ccs#=`::-=++ccccccss###%%#sc==++*ccc#%%%%%%#%s.                  </text>    <text x="10" y="333.5" clip-path="url(#wipe-30)">                     -==---:`+s=:-==+**cccccss######sc*cc*ssc+*%%%%%%%%s`                   </text>    <text x="10" y="344.0" clip-path="url(#wipe-31)">                     `s#s*====**==++*ccccccss#######sssss+sc*++s%%%%%%c.                    </text>    <text x="10" y="354.5" clip-path="url(#wipe-32)">                      +c*=+*sscs*++*ccsss####%%%%#######s+c**+=*%%%%%+                      </text>    <text x="10" y="365.0" clip-path="url(#wipe-33)">                     =c*+=+*sss##scccs###%%%%%%%%%%%%##sscc**+=+##%#-                       </text>    <text x="10" y="375.5" clip-path="url(#wipe-34)">                    .s#sss######%%%%%%%%%%%%%%%%%%%%#sscccc*+++=*c#-                        </text>    <text x="10" y="386.0" clip-path="url(#wipe-35)">                     =###%%%%%%%%%%%%%%%%%%%%%%%%##scc**ccc*+++++*+                         </text>    <text x="10" y="396.5" clip-path="url(#wipe-36)">                      -s%@@%%@@@@@@%%%%%%########sc*+++**cc*+++++**+=-                      </text>    <text x="10" y="407.0" clip-path="url(#wipe-37)">                        `---:-====+s%#########ssc*+===+**ccc****cs#%@%=                     </text>    <text x="10" y="417.5" clip-path="url(#wipe-38)">                                    =ss##sssssc*+==--=+**ccssss##%%%%%%-                    </text>    <text x="10" y="428.0" clip-path="url(#wipe-39)">                                     =csssccc**+==--=++*ccssss##%%%%%%%%-                   </text>    <text x="10" y="438.5" clip-path="url(#wipe-40)">                                     `ccccccc*++======+*cssss#%%%%%#%%%%%+                  </text>    <text x="10" y="449.0" clip-path="url(#wipe-41)">                                      -ccc***++======++*ccs#%%%%%%##%%%%%#.                 </text>    <text x="10" y="459.5" clip-path="url(#wipe-42)">                                       :++***+======++**c#%%%%%%###%###%%#c-                </text>    <text x="10" y="470.0" clip-path="url(#wipe-43)">                                        `==+==--=++++++c#%%%%%%######%%%##%%s=.             </text>    <text x="10" y="480.5" clip-path="url(#wipe-44)">                                       :+-=++=-==+=+=+s%%%%%%%######%%#######%#*:           </text>    <text x="10" y="491.0" clip-path="url(#wipe-45)">                                      =%s-+*+==+++==*#%%%%%%%#####%%%##########%%c:         </text>
   </g>
 </svg>
