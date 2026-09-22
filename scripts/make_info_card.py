@@ -1,3 +1,5 @@
+import html
+
 INFO = {
     "user": "ravin",
     "host": "github",
@@ -6,7 +8,7 @@ INFO = {
     "Cloud/Ops": "Docker, Redis, Supabase, Linux",
     "Building": "Voxly (OSS Webhook & Messaging Engine)",
     "Focus": "High-performance APIs & AI Agent Orchestration",
-    "Location": "India 🇮🇳",
+    "Location": "India",
 }
 
 
@@ -28,11 +30,12 @@ def make_info_card(output_path: str = "info-card.svg"):
     delay = 0.15
 
     for label, val, color in rows_data:
+        escaped_val = html.escape(val)
         lines_svg.append(f"""
     <g class="fade-row" style="animation-delay: {delay:.2f}s;">
       <text x="25" y="{y_pos}" class="label" fill="{color}">{label}</text>
       <text x="110" y="{y_pos}" class="separator">~</text>
-      <text x="130" y="{y_pos}" class="value">{val}</text>
+      <text x="130" y="{y_pos}" class="value">{escaped_val}</text>
     </g>""")
         y_pos += 30
         delay += 0.08
@@ -53,11 +56,12 @@ def make_info_card(output_path: str = "info-card.svg"):
             f'<rect x="{25 + idx * 24}" y="{y_pos + 18}" width="18" height="12" rx="2" fill="{c}" />'
         )
 
-    svg = f"""<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    svg = f"""<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {width} {height}" width="100%" height="100%">
   <style>
     @keyframes slideIn {{
-      from {{ opacity: 0; transform: translateX(-10px); }}
-      to {{ opacity: 1; transform: translateX(0); }}
+      0% {{ opacity: 0; transform: translateX(-10px); }}
+      100% {{ opacity: 1; transform: translateX(0); }}
     }}
     .fade-row {{
       opacity: 0;
@@ -75,7 +79,7 @@ def make_info_card(output_path: str = "info-card.svg"):
 
   <rect width="100%" height="100%" fill="#0d1117" rx="8" stroke="#30363d" stroke-width="1" />
 
-  <!-- Window dots -->
+  <!-- Window controls -->
   <circle cx="25" cy="22" r="5" fill="#ff5f56" />
   <circle cx="42" cy="22" r="5" fill="#ffbd2e" />
   <circle cx="59" cy="22" r="5" fill="#27c93f" />
@@ -95,7 +99,7 @@ def make_info_card(output_path: str = "info-card.svg"):
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(svg)
-    print(f"✓ Generated info card at '{output_path}'")
+    print(f"✓ Successfully generated clean '{output_path}'")
 
 
 if __name__ == "__main__":
