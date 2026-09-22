@@ -21,7 +21,7 @@
 
   <p align="center">
     <a href="https://voxly-oss.vercel.app"><b>Project Voxly</b></a> •
-    <a href="https://ravinportfoliio.vercel.app"><b>Portfolio</b></a> •
+    <a href="https://ravinportfolio.vercel.app"><b>Portfolio</b></a> •
     <a href="https://linkedin.com/in/ravinder-pandey-56041b187"><b>LinkedIn</b></a>
   </p>
 
