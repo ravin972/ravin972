@@ -1,8 +1,9 @@
-<svg viewBox="0 0 490 360" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 490 360" width="100%" height="100%">
   <style>
     @keyframes slideIn {
-      from { opacity: 0; transform: translateX(-10px); }
-      to { opacity: 1; transform: translateX(0); }
+      0% { opacity: 0; transform: translateX(-10px); }
+      100% { opacity: 1; transform: translateX(0); }
     }
     .fade-row {
       opacity: 0;
@@ -20,7 +21,7 @@
 
   <rect width="100%" height="100%" fill="#0d1117" rx="8" stroke="#30363d" stroke-width="1" />
 
-  <!-- Window dots -->
+  <!-- Window controls -->
   <circle cx="25" cy="22" r="5" fill="#ff5f56" />
   <circle cx="42" cy="22" r="5" fill="#ffbd2e" />
   <circle cx="59" cy="22" r="5" fill="#27c93f" />
@@ -34,7 +35,7 @@
     <g class="fade-row" style="animation-delay: 0.15s;">
       <text x="25" y="80" class="label" fill="#58a6ff">Role</text>
       <text x="110" y="80" class="separator">~</text>
-      <text x="130" y="80" class="value">Backend Developer & AI Integrator</text>
+      <text x="130" y="80" class="value">Backend Developer &amp; AI Integrator</text>
     </g>
     <g class="fade-row" style="animation-delay: 0.23s;">
       <text x="25" y="110" class="label" fill="#7ee787">Stack</text>
@@ -49,17 +50,17 @@
     <g class="fade-row" style="animation-delay: 0.39s;">
       <text x="25" y="170" class="label" fill="#d2a8ff">Building</text>
       <text x="110" y="170" class="separator">~</text>
-      <text x="130" y="170" class="value">Voxly (OSS Webhook & Messaging Engine)</text>
+      <text x="130" y="170" class="value">Voxly (OSS Webhook &amp; Messaging Engine)</text>
     </g>
     <g class="fade-row" style="animation-delay: 0.47s;">
       <text x="25" y="200" class="label" fill="#79c0ff">Focus</text>
       <text x="110" y="200" class="separator">~</text>
-      <text x="130" y="200" class="value">High-performance APIs & AI Agent Orchestration</text>
+      <text x="130" y="200" class="value">High-performance APIs &amp; AI Agent Orchestration</text>
     </g>
     <g class="fade-row" style="animation-delay: 0.55s;">
       <text x="25" y="230" class="label" fill="#ff7b72">Location</text>
       <text x="110" y="230" class="separator">~</text>
-      <text x="130" y="230" class="value">India 🇮🇳</text>
+      <text x="130" y="230" class="value">India</text>
     </g>
 
   <!-- Terminal Color Blocks -->
