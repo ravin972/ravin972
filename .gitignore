@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Rembg cache & downloaded models
+.u2net/
+
+# Raw/Intermediate heavy image files (keep final SVGs & contributions data)
+data/source-prepped.png
+
+# Environment variables & local secrets
+.env
+.env.local
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
