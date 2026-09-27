@@ -1,43 +1,8 @@
 {
   "username": "ravin972",
-  "total_year": 202,
-  "current_streak": 7,
+  "total_year": 198,
+  "current_streak": 9,
   "days": [
-    {
-      "date": "2025-09-21",
-      "count": 4,
-      "level": 4
-    },
-    {
-      "date": "2025-09-22",
-      "count": 2,
-      "level": 2
-    },
-    {
-      "date": "2025-09-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-25",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-27",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-28",
       "count": 1,
@@ -1855,8 +1820,13 @@
     },
     {
       "date": "2026-09-26",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-09-27",
+      "count": 1,
+      "level": 1
     }
   ]
 }
