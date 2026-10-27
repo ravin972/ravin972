@@ -55,26 +55,3 @@
 </div>
 
 <p align="center"><sub>RAVINDER PANDEY · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
-## Experience
-
-**MatchBest Software Pvt. Ltd. — Full Stack Engineer - Backend &amp; AI Systems** · Feb 2026 – Sep 2026
-- Owned the production live-call path for an AI voice platform using Node.js/TypeScript, Express, Twilio Media Streams, streaming STT, LLM turn handling, sentence-level TTS and playback.
-- Operated 11 BullMQ workers across 12 queues including an integration-events DLQ; reduced Redis concurrency-lock round trips from 33 to 22 per admitted call using Lua while preserving admission correctness.
-- Resolved production failures involving duplicate PrismaClient pools and migration drift; shipped shared-client lifecycle handling, fail-closed migration safeguards, DB identity checks, PR drift gates and post-deploy logi
-
-**Venkwara Infotech Pvt. Ltd. — Backend Engineer** · Mar 2023 – Nov 2025
-- Progressed from frontend-led delivery in year one to backend ownership by the third year, finishing at roughly 70% backend work across Python and Node.js services with React and Next.js.
-- Built a customer support and ticketing system end to end, covering data models, REST APIs, ticket creation and state transitions, assignment routing and notifications.
-- Replaced manual SSH deployments with GitHub Actions automation that builds and ships Docker Compose services to EC2, with rollback on failed deployment.
-
-**Education**
-
-- Bachelor of Computer Applications (BCA) — Gurugram University, Haryana (2022)
-
-**Projects**
-
-- **VAK - Say It Better** — Built a cross-platform multilingual AI reply assistant with Expo/React Native, TypeScript, Vercel serverless APIs, Supabase PostgreSQL, Upstash Redis and OpenAI GPT-4o text/vision. Led a full-stack audit of VAK's payment
-- **AI Interview Preparation Assistant** — Built a production-oriented interview-prep platform that turns a job description and company URL into evidence-backed requirements, categorized questions, flashcards and a deterministic day-by-day study schedule. Built a
-- **Voxly OSS** — Built an open-source agency operations platform with FastAPI, PostgreSQL, Redis, Celery, Next.js and React, including GitHub webhook ingestion, client communication workflows and a multimodal screenshot-to-GitHub-issue w
-- **Voice Qualification Engine** — Built a deployed, config-driven voice qualification engine with FastAPI/asyncio, Twilio Media Streams, Deepgram streaming STT and OpenAI JSON-mode classification, with each bot defined through YAML configuration. Kept bu
