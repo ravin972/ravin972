@@ -1,7 +1,7 @@
 {
   "username": "ravin972",
-  "total_year": 246,
-  "current_streak": 7,
+  "total_year": 247,
+  "current_streak": 8,
   "days": [
     {
       "date": "2025-11-09",
@@ -1850,6 +1850,11 @@
     },
     {
       "date": "2026-11-13",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-14",
       "count": 0,
       "level": 0
     }
